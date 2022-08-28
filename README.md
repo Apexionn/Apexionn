@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lintangggg
+- 👋 Hi, I’m @Apexion
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, HTML, PHP, CSS, and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
