@@ -5,17 +5,17 @@ I'm a Computer Science student at BINUS University, passionate about turning ide
 ---
 
 ### 🔧 What I Work With:
-- **Frontend Magic**: ReactJS, Bootstrap, Tailwind CSS – designing sleek UIs that bring user experiences to life.
-- **Backend Brains**: Laravel, MySQL, RESTful APIs – making sure everything behind the scenes works like a charm.
-- **Mobile Mastery**: Flutter – bringing app ideas to mobile with cross-platform development.
-- **Other Arsenal**: Postman, Axios, Git – the tools I use to get the job done.
+- **Frontend**: ReactJS, Bootstrap, Tailwind CSS.
+- **Backend**: Laravel, MySQL, RESTful APIs.
+- **Mobile**: Flutter, Android Studio.
+- **Other Tools**: Postman, Git.
 
 ---
 
 ### 🌱 Fun Facts:
-- I’m always on the lookout for new challenges to sharpen my skills.
-- I love exploring how tech can solve real-world problems and improve lives.
-- In my spare time, I'm curating my **'Calm Spirits'** playlist for coding sessions and good vibes.
+- I’m always exploring the intersections of **game development**, **artificial intelligence**, and **data science**.
+- I believe in leveraging technology to solve complex problems and unlock new opportunities.
+- When I'm not coding, I dive into research on how AI can enhance gaming experiences or how data can drive smarter decisions.
 
 ---
 
