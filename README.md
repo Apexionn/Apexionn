@@ -10,6 +10,7 @@ I'm a Computer Science student at BINUS University, passionate about turning ide
 - **Backend**: Laravel, MySQL, RESTful APIs.
 - **Mobile**: Flutter, Android Studio.
 - **Other Tools**: Postman, Git.
+- **Other Language**: C, C#.
 
 ---
 
