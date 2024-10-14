@@ -21,7 +21,7 @@ I'm a Computer Science student at BINUS University, passionate about turning ide
 ---
 
 ### 📊 GitHub at a Glance:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lintanggg&show_icons=true&theme=merko)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lintangggg&show_icons=true&theme=merko)
 
 ---
 
