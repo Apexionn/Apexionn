@@ -6,11 +6,11 @@ I'm a Computer Science student at BINUS University, passionate about turning ide
 ---
 
 ### 🔧 What I Work With:
-- **Frontend**: ReactJS, Bootstrap, Tailwind CSS.
-- **Backend**: Laravel, MySQL, RESTful APIs.
-- **Mobile**: Flutter, Android Studio.
-- **Other Tools**: Postman, Git.
-- **Other Language**: C, C#.
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/iconsi=c,cs,php,notion,mysql,figma,linkedin,laravel,androidstudio,bootstrap,dart,flutter,git,github,gradle,unity,html,css,js,postgres,postman,react,tailwind,vscode,&perline=10" height="110"/>
+</a>
+</p>
 
 ---
 
