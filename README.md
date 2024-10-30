@@ -14,13 +14,6 @@ I'm a Computer Science student at BINUS University, passionate about turning ide
 
 ---
 
-### 🌱 Fun Facts:
-- I’m always exploring the intersections of **Game Development**, **Artificial Intelligence**, and **Data Science**.
-- I believe in leveraging technology to solve complex problems and unlock new opportunities.
-- When I'm not coding, I dive into research on how AI can enhance gaming experiences or how data can drive smarter decisions.
-
----
-
 ### 📊 GitHub at a Glance:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Apexionn&show_icons=true&theme=merko)
 
