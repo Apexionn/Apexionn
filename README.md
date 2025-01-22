@@ -9,9 +9,3 @@
 
 ### 📊 GitHub at a Glance:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Apexionn&show_icons=true&theme=merko)
-
----
-
-### 📫 Let's Connect!
-- Find me on [LinkedIn](https://www.linkedin.com/in/lintang-anggowoyuono-749328286/) to chat about tech, projects, or collaboration.
-- Drop me an email at: lintanganggowo@gmail.com
